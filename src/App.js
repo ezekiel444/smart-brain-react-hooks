@@ -106,9 +106,7 @@ function App() {
           })
             .then((response) => response.json())
             .then((data) => {
-              setUpdateUser((prevState) => {
-                return Object.assign(prevState, (prevState.entries = data));
-              });
+              setUpdateUser(Object.assign(updateUser, { entries: data }));
             })
             .catch((err) => console.log(err));
         }
