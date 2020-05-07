@@ -105,9 +105,11 @@ function App() {
             }),
           })
             .then((response) => response.json())
-            .then((data) => {
-              setUpdateUser(Object.assign(updateUser, { entries: data }));
-            })
+            .then((data) =>
+              setUpdateUser((prevState) => {
+                return { ...prevState, entries: data };
+              })
+            )
             .catch((err) => console.log(err));
         }
         displayFaceBox(imageCalculation(response)).catch((error) =>
