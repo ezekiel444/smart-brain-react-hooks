@@ -1,7 +1,0 @@
-:root {
-    --background: linear-gradient(60deg, #64b3f4 0%, #c2e59c 100%);
-}
-
-.Tilt {
-    background: var(--background);
-}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/face-recognition-with-react-hooks-/static/css/main.b03f30d5.chunk.css",
+    "main.js": "/face-recognition-with-react-hooks-/static/js/main.b7d11348.chunk.js",
+    "main.js.map": "/face-recognition-with-react-hooks-/static/js/main.b7d11348.chunk.js.map",
+    "runtime-main.js": "/face-recognition-with-react-hooks-/static/js/runtime-main.12e1f26e.js",
+    "runtime-main.js.map": "/face-recognition-with-react-hooks-/static/js/runtime-main.12e1f26e.js.map",
+    "static/css/2.036b41f9.chunk.css": "/face-recognition-with-react-hooks-/static/css/2.036b41f9.chunk.css",
+    "static/js/2.242e0813.chunk.js": "/face-recognition-with-react-hooks-/static/js/2.242e0813.chunk.js",
+    "static/js/2.242e0813.chunk.js.map": "/face-recognition-with-react-hooks-/static/js/2.242e0813.chunk.js.map",
+    "index.html": "/face-recognition-with-react-hooks-/index.html",
+    "precache-manifest.67942ae49dd79c9763e17ef91a88cd00.js": "/face-recognition-with-react-hooks-/precache-manifest.67942ae49dd79c9763e17ef91a88cd00.js",
+    "service-worker.js": "/face-recognition-with-react-hooks-/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/face-recognition-with-react-hooks-/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.b03f30d5.chunk.css.map": "/face-recognition-with-react-hooks-/static/css/main.b03f30d5.chunk.css.map",
+    "static/js/2.242e0813.chunk.js.LICENSE.txt": "/face-recognition-with-react-hooks-/static/js/2.242e0813.chunk.js.LICENSE.txt",
+    "static/media/brain.jpg": "/face-recognition-with-react-hooks-/static/media/brain.469fb591.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12e1f26e.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.242e0813.chunk.js",
+    "static/css/main.b03f30d5.chunk.css",
+    "static/js/main.b7d11348.chunk.js"
+  ]
+}
