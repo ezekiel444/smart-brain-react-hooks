@@ -29,7 +29,6 @@ function Register({ onChangeRoute, handleUserUpdate }) {
     })
       .then((response) => response.json())
       .then((userdata) => {
-        console.log(userdata);
         if (userdata.id) {
           handleUserUpdate(userdata);
           onChangeRoute("home");
